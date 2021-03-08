@@ -43,4 +43,4 @@ anime({
     easing: 'easeInOutSine' 
   });
 
- 
+  AOS.init();
