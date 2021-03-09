@@ -1,6 +1,9 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
+.w-23{
+  max-width: 23.6%;
+}
 
 /*===section header & navbar style start===*/
 
